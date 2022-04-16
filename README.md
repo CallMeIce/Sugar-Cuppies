@@ -1,2 +1,2 @@
 # Sugar-Cuppies
-Website creation for my cousin's wife
+Website design for an Event Sylist company in the works.
