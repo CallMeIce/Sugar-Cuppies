@@ -1,5 +1,27 @@
+body {
+	background: linear-gradient(200deg, #ec6e9e, #6dccee);
+	background-size: auto;
+	/* animation: gradient 15s ease infinite; */
+	height: 100vh;
+}
+
 header {
     font-family: 'Emilys Candy', cursive;
     font-size: 50px;
     text-align: center;
 }
+
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+/* #e73c7e, #23d5ab,  */
