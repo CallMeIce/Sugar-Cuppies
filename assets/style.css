@@ -7,10 +7,17 @@ body {
 
 header {
     font-family: 'Emilys Candy', cursive;
-    font-size: 50px;
+    font-size: 70px;
     text-align: center;
 }
 
+nav {
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Emilys Candy', cursive;
+    font-size: large;
+}
 
 @keyframes gradient {
 	0% {
